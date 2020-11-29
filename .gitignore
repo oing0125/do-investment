@@ -1,0 +1,7 @@
+# Build files
+target/
+node_modules/
+doin-web/node_modules
+
+#IntelliJ directory
+.idea/
