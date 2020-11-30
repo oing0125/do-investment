@@ -1,0 +1,11 @@
+button{
+  background-color: #91C4D9;
+  padding: 0px 10px 0px 10px;
+  border: 1px solid #91C4D9;
+  color: #021826;
+  border-radius: 2px;
+  height: 25px;
+}
+input[type=text]{
+  height: 25px;
+}

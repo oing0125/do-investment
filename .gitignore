@@ -5,3 +5,4 @@ doin-web/node_modules
 
 #IntelliJ directory
 .idea/
+*.iml
